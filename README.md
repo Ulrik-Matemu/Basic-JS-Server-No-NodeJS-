@@ -128,8 +128,54 @@ const response = server.handleRequest('POST', '/users', { name: 'John' });
 
 ## License
 
-[Add your preferred license here]
+MIT License
+
+Copyright (c) 2024 Ulrik Matemu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Contributing
 
-[Add contribution guidelines if applicable]
+Thank you for considering contributing to SimpleServer! As this is a personal project, here's how you can help:
+
+1. **Bug Reports**
+   - Open an issue describing the bug
+   - Include steps to reproduce
+   - Describe expected vs actual behavior
+
+2. **Feature Suggestions**
+   - Open an issue describing the feature
+   - Explain why this feature would be useful
+   - Discuss possible implementation approaches
+
+3. **Pull Requests**
+   - Fork the repository
+   - Create a new branch for your feature
+   - Write clear commit messages
+   - Add tests if applicable
+   - Update documentation as needed
+   - Submit a pull request with a description of your changes
+
+4. **Code Style**
+   - Follow the existing code style
+   - Use meaningful variable and function names
+   - Add comments for complex logic
+
+For any questions or discussions, feel free to [open an issue](https://github.com/Ulrik-Matemu/simple-server/issues).
+
